@@ -1,0 +1,16 @@
+{
+  "name": "curso-base-de-datos-con-mongodb-y-sockets",
+  "version": "0.1.0",
+  "description": "un chat commo telegram, pero mucho mejor  ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chat",
+    "telegram",
+    "server"
+  ],
+  "author": "Francisco Bastardo",
+  "license": "MIT"
+}
